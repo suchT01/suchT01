@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Zorrilla</h1>
 <h3 align="center">A passionate Full-stack developer from Venezuela</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sucht01&label=Profile%20views&color=0e75b6&style=flat" alt="sucht01" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sucht01" alt="sucht01" /></a> </p>
 
 - 🔭 I’m currently working on **UgmaGUN in colaboration**
